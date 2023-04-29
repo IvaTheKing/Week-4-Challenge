@@ -1,0 +1,12 @@
+h1,
+.question {
+    display: none;
+}
+
+#start {
+    display: block;
+}
+
+.answer {
+    display: none;
+}
